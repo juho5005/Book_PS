@@ -27,4 +27,5 @@ while m :
         res += first_max 
         k_instead -= 1
     m -= 1
+    
 print(res)
